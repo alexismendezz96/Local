@@ -1,0 +1,1 @@
+alert("El archivo index.js se ha importado correctamente.");
